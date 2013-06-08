@@ -1,4 +1,4 @@
-package calculator.main;
+package main;
 
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;

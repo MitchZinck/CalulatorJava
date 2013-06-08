@@ -1,4 +1,4 @@
-CalulatorJava
+Java Calculator
 =============
 
 Java GUI Calculator
